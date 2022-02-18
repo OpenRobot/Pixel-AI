@@ -1,0 +1,9 @@
+git+https://github.com/iDevision/enhanced-discord.py
+#git+https:/github.com/OpenRobot-Packages/Python-API-Wrapper
+git+https://github.com/Rapptz/discord-ext-menus
+
+google-api-python-client
+boto3
+pyyaml
+jishaku
+psutil # For jsk purposes
